@@ -11,7 +11,7 @@ My name is Dimitar Marenoski, a passionate Software Engineering Student at FINKI
 Here are some of the technologies and tools I work with:
 
 - 🖥️ Programming Languages: JavaScript, Python, Java, C#, C++, C
-- 🌐 Front-end: HTML, CSS, JavaScript, React ,VueJS, NextJS
+- 🌐 Front-end: React, VueJS, NextJS
 - 🖥️ Back-end: Django, Java Spring Boot, ASP .Net Core
 - 💾 Databases: MySQL, Postgres, SQL Server
 - 🧰 Tools: Git, Docker
