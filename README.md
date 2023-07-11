@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mDimitar&show_icons=true&theme=radical)
-🔥 Most Used Languages
+- 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mDimitar&layout=compact)
 
 Feel free to explore my repositories and check out my projects. Don't hesitate to connect with me! Let's learn and grow together. 😄
