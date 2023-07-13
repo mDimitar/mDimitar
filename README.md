@@ -1,6 +1,6 @@
 # Hey there! 👋
   
-My name is Dimitar Marenoski, a passionate Software Engineering Student at FINKI. I'm 22 years old and currently focused on Full Stack Web Development. 🚀
+My name is Dimitar Marenoski, a passionate Software Engineering Student at Faculty of Computer Science and Engineering in Skopje. I'm 22 years old and currently focused on Full Stack Web Development. 🚀
 
 ## 🌟 About Me
 - 🎓 Studying Software Engineering at FINKI.
